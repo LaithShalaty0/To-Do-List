@@ -1,0 +1,12 @@
+ul
+{
+    padding: 20px 0;
+    margin: 5px 0;
+}
+
+ul li
+{
+    background: #0168AC;
+    padding: 10px;
+    border-radius: 6px;
+}
